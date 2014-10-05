@@ -1567,7 +1567,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],
-    "prefer-stable": false,
+    "prefer-stable": true,
     "platform": {
         "php": "~=5.5.3",
         "ext-intl": "*"
